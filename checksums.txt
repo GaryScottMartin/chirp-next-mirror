@@ -1,16 +1,7 @@
-# CHIRP upstream release archive checksums
-#
-# Files listed here are unmodified copies of upstream CHIRP release
-# archives. Upstream SHA-1 values are taken from the SHA1SUM file
-# published alongside each upstream release.
-
-20260814
-
-Upstream URL:
-https://archive.chirpmyradio.com/chirp_next/next-20260814/chirp-20260814.tar.gz
-
-Upstream SHA-1:
+# SHA1 checksums copied from upstream SHA1SUM and verified locally
 ba1230d154f74b77a4f54f37e2a990658a01ce07  chirp-20260814.tar.gz
+461c1e7e181f2bf34bf9ec989f3d721a5e0fcb1a  Chirp-next-20260814-x86_64.AppImage
 
-SHA-256:
+# SHA256 checksums generated locally
 1a315df9268f766f7e47424c9edadde29854928c2d78a962449814cc833efe3b  chirp-20260814.tar.gz
+1a59820fccd77fd046c81c5c4af6439e00464c1d66d4cfd62014af5e7e597317  Chirp-next-20260814-x86_64.AppImage

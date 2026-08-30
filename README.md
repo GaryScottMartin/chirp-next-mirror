@@ -21,9 +21,9 @@ Arch Linux AUR packages:
 https://aur.archlinux.org/packages/chirp-next
 https://aur.archlinux.org/packages/chirp-next-bin
 
-Checksums:
-SHA1SUM --- copy of the file published for each release by https://chirpmyradio.com/
-checksums.txt --- locally published file containing both upstream SHA1 checksums and
+Checksums:  
+SHA1SUM --- copy of the file published for each release by https://chirpmyradio.com/  
+checksums.txt --- locally published file containing both upstream SHA1 checksums and  
                   locally computed SHA256 checksums of the mirrored files.
 
 This repository is not a fork of CHIRP and contains no modified CHIRP

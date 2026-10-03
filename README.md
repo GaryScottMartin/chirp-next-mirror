@@ -4,7 +4,7 @@ Partial mirror of unmodified upstream [CHIRP releases](https://archive.chirpmyra
 
 This repository exists because the host of the upstream CHIRP archive currently prevents reliable automated retrieval of released files by command-line package-building tools.
 
-CHIRP release files provided here are copied without modification from the CHIRP upstream archive. Before publication, both the source archive and the AppImage of each release are verified against the checksum published by CHIRP. Since SHA1 checksums are no longer considered reliable cryptography, SHA256 checksums computed locally are also provided to support proper verification of the files provided here.
+CHIRP release files provided here are copied without modification from the [upstream CHIRP archive](https://archive.chirpmyradio.com/chirp_next/). Before publication, both the source archive and the AppImage of each release are verified against the checksum published by CHIRP. Since SHA1 checksums are no longer considered reliable cryptography, SHA256 checksums computed locally are also provided to support proper verification of the files provided here.
 
 Upstream project:  
 https://chirpmyradio.com/

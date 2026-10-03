@@ -1,7 +1,6 @@
 # chirp-next-mirror
 
-Mirror of unmodified upstream CHIRP release source archives used by the
-Arch Linux `chirp-next` and `chirp-next-bin` AUR packages.
+Partial mirror of unmodified upstream [CHIRP releases](https://archive.chirpmyradio.com/chirp_next/). Each release here is composed of a source archive(chirp-${pkgver}.tar.gz), an AppImage (Chirp-next-${pkgver}.AppImage), and checksums (SHA1SUM & checksums.txt) for use by the Arch Linux `chirp-next` and `chirp-next-bin` AUR packages. ${pkgver} is of the form 20260814, as used in the upstream CHIRP releases.
 
 This repository exists because the upstream CHIRP archive currently
 prevents reliable automated retrieval of release tarballs by command-line

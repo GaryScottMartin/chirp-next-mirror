@@ -1,7 +1,7 @@
 # SHA1 checksums copied from upstream SHA1SUM and verified locally
-60ad8daf3afc74ab2537f4f2f937849707ba5067  chirp-20261002.tar.gz
-33507a584390f183e05a5e1c8337c30435ee145a  Chirp-next-20261002-x86_64.AppImage
+34ebbc4b92850a0a52b82edd6f92fc7b6c9c46ce  chirp-20261009.tar.gz
+8e49ffba5053fd05a60c5dc91ace7d3758e5c749  Chirp-next-20261009-x86_64.AppImage
 
 # SHA256 checksums generated locally
-0a6df7f7e8691f9e17e96cbc9ca339b069b843ed580e3a192ad227b32d38458c  chirp-20261002.tar.gz
-d6eac874888f27697c7d2d9a6434a1066f951ca1ff18b285654aa479ca217907  Chirp-next-20261002-x86_64.AppImage
+2f74c5f0358320d01d2f5b6d75a5f104ce9084a8b1ddd84bb026fda7f182aab6  chirp-20261009.tar.gz
+ab72cfadbc63812898bdebd5719928f530b2ceee136dbc490406709a253fc481  Chirp-next-20261009-x86_64.AppImage
